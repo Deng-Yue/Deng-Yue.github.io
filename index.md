@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# 邓阅（2004010116）
 
-You can use the [editor on GitHub](https://github.com/Deng-Yue/Deng-Yue.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## 个人简介
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+姓名:邓阅
 
-### Markdown
+性别：男
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+出生年月：2002年10月25日
 
-```markdown
-Syntax highlighted code block
+籍贯：湖南长沙
 
-# Header 1
-## Header 2
-### Header 3
+专业：会计
 
-- Bulleted
-- List
+政治面貌：团员
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+电子邮件：1439841032@qq.com
 
-[Link](url) and ![Image](src)
-```
+## 技能总结
+英语四级
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 兴趣爱好
+篮球，羽毛球，看书，社交活动
 
-### Jekyll Themes
+##
+教育背景
+大学大二阶段，就读于湖南工商大学会计专业
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Deng-Yue/Deng-Yue.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 主修课程
+中级财务会计，高级财务会计，管理学
 
-### Support or Contact
+## 获奖情况
+无
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 自我评价
+大学期间各门课程不挂科，学完CPA，考过CMA，大三准备考研
+
